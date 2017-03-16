@@ -6,16 +6,16 @@ Commençons par une citation d'Aaron Levenstein (statisticien et professeur amé
 
 ## Aspect théorique
 La prédication des donnees tentera de répondre à des questions de style : 
-— "Une prevision des types de crimes susceptibles d’advenir aujourd’hui
-— Les zones les plus à risques
+- Une prevision des types de crimes susceptibles d’advenir aujourd’hui
+- Les zones les plus à risques
 
 L’analyse de données reposera essentiellement sur 2 types de méthodes :
-— La régression linéaire : pour construire des estimateurs forts et pre ́dire certaines tendances
-— Laclassi cation:ide ́alpourcate ́goriserdesincidentssuivantscertainssche ́mas.C’estencelalaforcedu
+- La régression linéaire : pour construire des estimateurs forts et pre ́dire certaines tendances
+- Laclassi cation:ide ́alpourcate ́goriserdesincidentssuivantscertainssche ́mas.C’estencelalaforcedu
 deep learning : il permet d’exploiter les corrélations entre les donne ́es souvent invisibleà l’esprit humain, mais mathématiquement liées.
 
 Une fois les constructions des modèles terminées, on pourra stocker les réultats dans une base de données, pour ainsi les obtenir à la volée. On disposera ainsi d’une interface graphique (page web) pour visualiser les résultats.
 
 Pour l’instant nous avons déterminé les données suivantes : (dépendamment de la faisabilité et de l’accèssibilité, cela pourra évoluer) :
-— Cas d’incidents criminels
+- Cas d’incidents criminels
 - Cas d’incendies (Tels que rapportés par le SIM : Service Incendie de Montreal)
