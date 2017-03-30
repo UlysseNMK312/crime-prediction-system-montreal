@@ -20,5 +20,16 @@ Pour l’instant nous avons déterminé les données suivantes : (dépendamment 
 - Cas d’incidents criminels tels que rapportés par le SPVM entre 2015 et 2016.
 - Cas d’incidents, tels que rapportés par le SIM : Service Incendie de Montreal entre 2005 et 2016.
 
+______________________________________________________________________________________________________________________________________
 
+### Introductopm
 
+### Analyse des datasets 
+
+### Premiers pas
+
+### Premiers résultat
+
+### Amélioration
+
+### Conclusion
