@@ -22,9 +22,16 @@ Pour l’instant nous avons déterminé les données suivantes : (dépendamment 
 
 ______________________________________________________________________________________________________________________________________
 
-### Introductopm
+### Introduction
+L'analyse des données criminelles semble être la prochaine étape vers laquelle évolueront les services de protections des civils (police, gendarmie, pompiers, ambulances).  Le volume des données, la qualité des données et les performacnes de calcul permettent aisément de coordonner les efforts de deploiements de ces forces de protection. Dans notre travail, nous avons essayé de démontrer qu'il é ait possible que la police 'arrive plus rapidement sur les lieux q'une pizza commandée'.
 
 ### Analyse des datasets 
+Nous commençons bien entendu par une analyse profonde des datasets à notre disposition. Nous rappellons que nous disposons de 2 sources de données : 
+- Le dataset du SIM (service Incendie de Montréal), les pompiers qui recense les évènements entre 2005 et 2015 dans un premier temps et 2015 et 2016, d'une qualité remarquable. Le dataset est disponible ici [http://donnees.ville.montreal.qc.ca/dataset/interventions-service-securite-incendie-montreal](Interventions du SIM - 2005-2014 - CSV)
+- Le dataset de la SPVM (Service de Police de la ville de Montréal), qui rassemble les actes criminels en tant que tels. Malheureusement, il est moins fourni que celui des pompiers et ne recense que les indicents entre 2015 et 2016 (a peu près 50 000). Il est intéressant lorsque jumelé avec celui des pompiers. Dataset disponible [http://donnees.ville.montreal.qc.ca/dataset/actes-criminels](ici)
+
+Nous rappelons aussi que nous avions les outils suivant pour la visualisation :
+- SQLite : système de base de donné
 
 ### Premiers pas
 
