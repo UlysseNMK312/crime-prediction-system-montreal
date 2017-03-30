@@ -1,4 +1,4 @@
-# crime-prediction-system-montreal
+## Système de prédiction de crimes pour la ville de Montréal.
 Systeme de prediction de crimes pour la ville de Montreal, Projet dans le cadre du cours INFO4006 - Machine Learning.
 
 ### Introduction
@@ -19,5 +19,6 @@ Une fois les constructions des modèles terminées, on pourra stocker les réult
 Pour l’instant nous avons déterminé les données suivantes : (dépendamment de la faisabilité et de l’accèssibilité, cela pourra évoluer) :
 - Cas d’incidents criminels tels que rapportés par le SPVM entre 2015 et 2016.
 - Cas d’incidents, tels que rapportés par le SIM : Service Incendie de Montreal entre 2005 et 2016.
+
 
 
